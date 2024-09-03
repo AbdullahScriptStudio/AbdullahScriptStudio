@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @AbdullahScriptStudio
+# 👋 Hi, I’m Abdullah Hassan
 
 ## 👀 I’m interested in ...
 - Data Science
