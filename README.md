@@ -15,7 +15,7 @@
 - Django-based applications
 
 ## 📫 How to reach me ...
-- Email: mail.abdullahassan@gmail.com
+- Email: abdullahassanmohammed@outlook.com
 
 ## 😄 Pronouns: ...
 - He/Him
